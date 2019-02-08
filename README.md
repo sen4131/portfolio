@@ -1,2 +1,1 @@
-# resume.guthub.io
-personal resume
+# personal resume
